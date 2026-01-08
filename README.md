@@ -1,8 +1,8 @@
 # Class Twitter Capstone Project
 
-Welcome to the **Class Twitter Capstone Project**!\
+Welcome to the **Class Twitter Capstone Project**!
 
-<img width="620" height="620" alt="image" src="https://github.com/user-attachments/assets/61d9fd66-9eaf-4e65-9ee7-67351e5ee474" />
+<img width="320" height="320" alt="image" src="https://github.com/user-attachments/assets/61d9fd66-9eaf-4e65-9ee7-67351e5ee474" />
 
 
 Over the next three weeks, you will work in teams to build a **larger,
