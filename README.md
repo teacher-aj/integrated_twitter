@@ -1,6 +1,9 @@
 # Class Twitter Capstone Project
 
 Welcome to the **Class Twitter Capstone Project**!\
+
+<img width="348" height="348" alt="image" src="https://github.com/user-attachments/assets/c6340d21-4076-4bab-a2f6-f8e6807c59a9" />
+
 Over the next three weeks, you will work in teams to build a **larger,
 more realistic version of Twitter** using Python.
 
