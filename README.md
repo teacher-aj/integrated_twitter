@@ -8,32 +8,23 @@ Welcome to the **Class Twitter Capstone Project**!
 Over the next three weeks, you will work in teams to build a **larger,
 more realistic version of Twitter** using Python.
 
-This project is designed to feel like a **real startup**: - Different
-teams own different features - Everyone works on the same codebase -
-Everything must work together
+This project is designed to feel like a **real startup**: 
+- Different teams own different features
+- Everyone works on the same codebase
+- Everything must work together
 
 ------------------------------------------------------------------------
 
 ## Project Goal
 
-By the end of this project, we will have: - A shared Python-based
-Twitter-style app - Multiple features built by different teams - A
-single "source of truth" for tweets and users - A working feed that
-updates as new content is added
+By the end of this project, we will have: 
+- A shared Python-based Twitter-style app
+- Multiple features built by different teams
+- A single "source of truth" for tweets and users
+- A working feed that updates as new content is added
 
-You are **not** building separate projects.\
+You are **not** building separate projects.
 You are building **one product together**.
-
-------------------------------------------------------------------------
-
-## Big Idea
-
-> Real software is not built by one person.\
-> It is built by teams who agree on how their code connects.
-
-This project is about: - Writing clear functions - Respecting shared
-data formats - Debugging integration problems - Communicating with other
-teams
 
 ------------------------------------------------------------------------
 
